@@ -29,7 +29,9 @@
     "morgan": "^1.10.0",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.23.1"
+    "sequelize": "^6.23.1",
+    "typeorm": "^0.3.10",
+    "zod": "^3.19.1"
   },
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
